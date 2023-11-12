@@ -42,4 +42,5 @@ Feel free to explore the code to understand how event bubbling is utilized for h
 
 Author
 Ana Fariya
+
 Enjoy popping bubbles and improving your reaction time! If you have any feedback or suggestions, feel free to contact me.
