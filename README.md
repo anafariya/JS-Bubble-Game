@@ -26,6 +26,9 @@ The click event listener is attached to the #panelbottom container.
 When a bubble is clicked, the event bubbles up to the container, and the event handler checks if the clicked bubble matches the current "Hit Value."
 This efficient use of event bubbling simplifies the code and improves performance by handling all bubble clicks in one central location.
 
+![Screenshot (34)](https://github.com/anafariya/JS-Bubble-Game/assets/70438803/73ee4cec-287d-4268-b88c-2a68ba83f452)
+
+
 Getting Started
 To run the game locally, follow these steps:
 
