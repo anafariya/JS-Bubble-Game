@@ -1,3 +1,6 @@
+## Demo
+
+ https://anafariya.github.io/JS-Bubble-Game/
 Bubble Game
 Welcome to the Bubble Game! This simple game is built using HTML, CSS, and JavaScript to create an engaging and interactive experience.
 
